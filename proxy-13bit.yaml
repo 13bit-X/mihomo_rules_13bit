@@ -1,6 +1,6 @@
 payload:
   # 代理列表
-  # 规则数量：11 条
+  # 规则数量：10 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -18,5 +18,4 @@ payload:
   - DOMAIN-SUFFIX,123av.com
   - DOMAIN-SUFFIX,missav.live
   - DOMAIN-SUFFIX,supjav.com
-  - DOMAIN-SUFFIX,share.dmhy.org # 动漫花园
   - DOMAIN-SUFFIX,dmhy.anoneko.com # 动漫花园
