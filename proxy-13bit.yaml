@@ -1,6 +1,6 @@
 payload:
   # 代理列表
-  # 规则数量：13 条
+  # 规则数量：17 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -22,3 +22,7 @@ payload:
   - DOMAIN-SUFFIX,112114.xyz # EPG-电子节目单
   - DOMAIN-SUFFIX,api-free.deepl.com # deepl 翻译
   - DOMAIN-SUFFIX,webshare.io # 快速且经济实惠的代理服务
+  - DOMAIN-SUFFIX,xsijishe.com # 老司机
+  - DOMAIN-SUFFIX,sexyai.ai # meimodu 美少女AI
+  - DOMAIN-SUFFIX,2dfan.com # 2dfan 二次元社区
+  - DOMAIN-SUFFIX,laowang.vip # 老王论坛
