@@ -1,6 +1,6 @@
 payload:
   # 代理列表
-  # 规则数量：17 条
+  # 规则数量：18 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -26,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,sexyai.ai # meimodu 美少女AI
   - DOMAIN-SUFFIX,2dfan.com # 2dfan 二次元社区
   - DOMAIN-SUFFIX,laowang.vip # 老王论坛
+  - DOMAIN-SUFFIX,u9a9.com # BT搜索站
