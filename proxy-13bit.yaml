@@ -1,6 +1,6 @@
 payload:
   # 代理列表
-  # 规则数量：20 条
+  # 规则数量：21 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -29,3 +29,4 @@ payload:
   - DOMAIN-SUFFIX,2dfan.com # 2dfan 二次元社区
   - DOMAIN-SUFFIX,laowang.vip # 老王论坛
   - DOMAIN-SUFFIX,u9a9.com # BT搜索站
+  - DOMAIN-SUFFIX,icdn.123av.me # 123av.me 图片
