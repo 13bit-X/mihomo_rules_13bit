@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # 规则数量：26 条
+  # 规则数量：27 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -35,3 +35,4 @@ payload:
   - DOMAIN-SUFFIX,urlimage.cc # 老司机的图床 在线图片分享平台的下载域名
   - DOMAIN-SUFFIX,img.achost.top # 2DFan 的图床 在线图片分享平台的下载域名
   - DOMAIN-SUFFIX,c0.jdbstatic.com # javdb 静态资源
+  - DOMAIN-SUFFIX,dl.pikpak.site # pikpak 下载域名
