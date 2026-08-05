@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # 规则数量：27 条
+  # 规则数量：28 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -10,6 +10,7 @@ payload:
   # - DST-PORT,80
   # - SRC-PORT,7777
   - GEOSITE,category-pt # pt 站点域名列表
+  - DOMAIN-WILDCARD,*store*.gofile.io # 在线文件分享与储存平台的下载域名
   - DOMAIN-SUFFIX,zxdgs.top
   - DOMAIN-SUFFIX,bd2-cdn.akamaized.net # 棕色尘埃2 相关
   - DOMAIN-SUFFIX,chat.bd2.pmang.cloud # 棕色尘埃2 相关
