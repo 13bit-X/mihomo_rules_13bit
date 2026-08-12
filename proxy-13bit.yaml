@@ -1,6 +1,6 @@
 payload:
   # 代理列表
-  # 规则数量：22 条
+  # 规则数量：24 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -30,4 +30,7 @@ payload:
   - DOMAIN-SUFFIX,laowang.vip # 老王论坛
   - DOMAIN-SUFFIX,u9a9.com # BT搜索站
   - DOMAIN-SUFFIX,icdn.123av.me # 123av.me 图片
-  - DOMAIN-SUFFIX,gofile.io # 在线文件分享与储存平台
+  # - DOMAIN-SUFFIX,gofile.io # 在线文件分享与储存平台
+  - DOMAIN,gofile.io # Gofile 网页
+  - DOMAIN,www.gofile.io # Gofile 网页
+  - DOMAIN,api.gofile.io # Gofile 网页 API
