@@ -1,6 +1,6 @@
 payload:
   # 日本节点列表
-  # 规则数量：3 条
+  # 规则数量：4 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,dmm.co.jp # FANZA
   - DOMAIN-SUFFIX,dmm.com # FANZA
   - DOMAIN-SUFFIX,mgstage.com # MGS
+  - DOMAIN-SUFFIX,javten.com # FC2hub
