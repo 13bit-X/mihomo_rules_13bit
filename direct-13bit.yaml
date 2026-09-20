@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # 规则数量：28 条
+  # 规则数量：29 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -39,4 +39,5 @@ payload:
   - DOMAIN-SUFFIX,c0.jdbstatic.com # javdb 静态资源
   - DOMAIN-SUFFIX,dl.pikpak.site # pikpak 下载域名
   - DOMAIN-SUFFIX,api.wd-blue.com # WestData 机场，订阅链接
-  - DOMAIN-SUFFIX,wd-gold.net # WestData 机场，官网
+  - DOMAIN-SUFFIX,wd-gold.net # WestData 机场，官网链接
+  - DOMAIN-SUFFIX,wd-cloud.net # WestData 机场，官网链接
