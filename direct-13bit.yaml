@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # 规则数量：29 条
+  # 规则数量：30 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -41,3 +41,4 @@ payload:
   - DOMAIN-SUFFIX,api.wd-blue.com # WestData 机场，订阅链接
   - DOMAIN-SUFFIX,wd-gold.net # WestData 机场，官网链接
   - DOMAIN-SUFFIX,wd-cloud.net # WestData 机场，官网链接
+  - DOMAIN-SUFFIX,poe2lens.com # Poe2Lens 流放之路全能工具箱
