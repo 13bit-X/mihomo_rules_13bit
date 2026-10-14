@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # 规则数量：30 条
+  # 规则数量：32 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -42,3 +42,5 @@ payload:
   - DOMAIN-SUFFIX,wd-gold.net # WestData 机场，官网链接
   - DOMAIN-SUFFIX,wd-cloud.net # WestData 机场，官网链接
   - DOMAIN-SUFFIX,poe2lens.com # Poe2Lens 流放之路全能工具箱
+  - DOMAIN,www.710421059.xyz # 易刷主服务器
+  - DOMAIN,efarm-zero.981001.xyz # 易刷备用服务器
