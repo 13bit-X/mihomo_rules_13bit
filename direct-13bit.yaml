@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # 规则数量：33 条
+  # 规则数量：35 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -45,3 +45,5 @@ payload:
   - DOMAIN-SUFFIX,poecurrency.top # POE通货经济数据库
   - DOMAIN,www.710421059.xyz # 易刷主服务器
   - DOMAIN,efarm-zero.981001.xyz # 易刷备用服务器
+  - DOMAIN-SUFFIX,npmjs.com # npm 官网及文档
+  - DOMAIN-SUFFIX,npmjs.org # npm 软件包仓库（含 MCP 工具依赖下载）
